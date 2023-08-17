@@ -1,6 +1,9 @@
 # ACT2G: Attention-based Text-to-Gesture Generation
 
-This repository contains scripts to build *Youtube Gesture Dataset*.
+This repository contains the code of our paper
+
+*ACT2G: Attention-based Contrastive Learning for Text-to-Gesture Generation (SCA 2023)*
+
 You can download Youtube videos and transcripts, divide the videos into scenes, and extract human poses.
 Please see the project page and paper for the details.  
  
