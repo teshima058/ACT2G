@@ -4,7 +4,7 @@ This repository contains the code of our paper
 
 *ACT2G: Attention-based Contrastive Learning for Text-to-Gesture Generation (SCA 2023)*
 
-
+* The code and its descriptions will be added soon.
 
 ## Citation 
 
